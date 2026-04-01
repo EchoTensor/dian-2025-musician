@@ -1,0 +1,27 @@
+# Cangjie compiled files
+*.cjo
+*.cjpkg
+/target/
+/build/
+
+# Generated MIDI files
+*.mid
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
