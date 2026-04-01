@@ -1,3 +1,6 @@
+我的测试文件夹统一命名为testcase,生成的mid文件返回该文件夹
+构建运行如：cjpm run --run-args testcase/2-chou.txt
+
 # 🎵 原始项目：MIDI 简易乐谱语言
 
 ## 项目结构
